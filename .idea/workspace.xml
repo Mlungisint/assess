@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6e6ee48-db37-4cb0-bf84-0eaa036ea261" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EcFcGJsKHdlmzF36Gx17rBMO2Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.shoppingWeb">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ShoppingAssess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ShoppingAssess" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shoppingWeb (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingAssess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase1" />
+      <option name="MAIN_CLASS_NAME" value="testCase1.shoppingWeb" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shoppingWeb (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingAssess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase1" />
+      <option name="MAIN_CLASS_NAME" value="testCase1.shoppingWeb" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shoppingWeb (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingAssess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase1" />
+      <option name="MAIN_CLASS_NAME" value="testCase1.shoppingWeb" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shoppingWeb" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingAssess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="testCase1.shoppingWeb" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shoppingWeb.checkoutTheProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingAssess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase1" />
+      <option name="MAIN_CLASS_NAME" value="testCase1.shoppingWeb" />
+      <option name="METHOD_NAME" value="checkoutTheProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.shoppingWeb" />
+        <item itemvalue="TestNG.shoppingWeb.checkoutTheProduct" />
+        <item itemvalue="TestNG.shoppingWeb (5)" />
+        <item itemvalue="TestNG.shoppingWeb (4)" />
+        <item itemvalue="TestNG.shoppingWeb (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e6ee48-db37-4cb0-bf84-0eaa036ea261" name="Changes" comment="" />
+      <created>1662887047421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662887047421</updated>
+    </task>
+    <servers />
+  </component>
+</project>
